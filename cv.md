@@ -12,7 +12,7 @@
 
 Hello, Im Alexandr. For two years now I have been creating websites as a hobby. I like this business so I decided to turn my hobby into a `full-time profession`. And every day I get closer to this goal because Im working on it `all the time`.
 
-* My strength:
+### My strengths:
  * Quick learner
  * Full immersion in the essence of the problems
  * Diligence
