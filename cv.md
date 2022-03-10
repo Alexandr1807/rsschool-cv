@@ -17,6 +17,7 @@ Hello, Im Alexander. For two years now I have been creating websites as a hobby.
  * Full immersion in the essence of the problems
  * Diligence
  * Team-player who can also work independently
+ * Patient
 
 ## Skills
 
